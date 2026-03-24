@@ -154,15 +154,17 @@
 ├─ README.md
 ├─ docs/
 │  ├─ fundamentals/
+│  ├─ local-network/
 │  ├─ domains/
 │  ├─ aws/
 │  ├─ azure/
 │  └─ gcp/
 ├─ labs/
+│  ├─ local/
 │  ├─ aws/
 │  ├─ azure/
 │  ├─ gcp/
-│  └─ local/
+│  └─ reports/
 ├─ notes/
 │  ├─ daily/
 │  ├─ weekly-review/
@@ -215,6 +217,20 @@
 2. `docs/fundamentals/iam-basics.md` 작성
 3. `labs/aws/iam/` 실습 시작
 4. 첫 주 요약 노트 작성
+
+## 13. Local Network Track
+
+로컬 PC 웹서버 구축까지 이어질 과제는 아래 흐름으로 정리한다.
+
+1. `docs/local-network/router-admin-survey.md`
+2. `labs/local/router-admin/change-log.md`
+3. `docs/local-network/local-web-server-roadmap.md`
+
+문서와 실습 로그를 분리하는 이유는 다음과 같다.
+
+- 조사 문서는 메뉴 구조와 기능 설명을 안정적으로 남기기 위함
+- 실습 로그는 실제로 바꾼 설정, 결과, 복구 방법을 추적하기 위함
+- 최종 목표 문서는 포트포워딩, DDNS, 방화벽, 웹서버 노출까지 연결하기 위함
 
 ---
 
