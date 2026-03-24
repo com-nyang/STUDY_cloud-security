@@ -214,7 +214,7 @@
 지금 바로 시작할 순서는 아래가 적절하다.
 
 1. `docs/fundamentals/shared-responsibility.md` 작성
-2. `docs/fundamentals/iam-basics.md` 작성
+2. `docs/fundamentals/iam/iam-basics.md` 작성
 3. `labs/aws/iam/` 실습 시작
 4. 첫 주 요약 노트 작성
 
