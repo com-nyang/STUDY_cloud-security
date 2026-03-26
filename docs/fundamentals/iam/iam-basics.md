@@ -1011,7 +1011,7 @@ IAM을 한 문장으로 기억하면 아래 구조다.
 IAM을 더 깊게 보려면 다음 순서가 좋다.
 
 1. `docs/fundamentals/iam/iam-policy-json-anatomy.md`
-2. Trust Policy와 AssumeRole 흐름
+2. `docs/fundamentals/iam/trust-policy-and-assume-role.md`
 3. IAM Privilege Escalation 패턴
 4. Federation / SSO 구조
 5. AWS IAM, Azure RBAC, GCP IAM 비교
